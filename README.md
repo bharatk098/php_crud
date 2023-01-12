@@ -5,4 +5,4 @@ This is my first php 'CRUD' project
 <br>
 
 
-<a href="https://phpcrud701.000webhostapp.com/">click me</a>
+https://phpcrud701.000webhostapp.com/
